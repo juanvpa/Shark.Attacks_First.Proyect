@@ -67,10 +67,3 @@ def hour (x):
             return key
 
     return x
-
-
-def countries (x):
-
-    """
-    THIS FUNCTION WILL HELP ME RETURN THE COUNTRIES WITH THE HIGHEST NUMBERS OF ATTACKS
-    """
