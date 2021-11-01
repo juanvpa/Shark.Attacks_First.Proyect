@@ -3,3 +3,4 @@ data/attacks.csv
 .ipynb_checkpoints
 __pycache__
 Shark Cleaning.ipynb
+data/shark_attack_clean.csv
