@@ -42,7 +42,7 @@
 - #### % Fatality (Tiger 25% | White 22% | Bull 20%)
 #
 #### 4. **Australia** has the higher number of attacks
-- #### WRONG
+- #### Wrong
   - #### 1. USA            --> (2.228 Attacks)
   - #### 2. AUSTRALIA      --> (1.337 Attacks)
   - #### 3. SOUTH AFRICA   --> (579 Attacks)
